@@ -1,0 +1,14 @@
+title: Downtime Industries
+description: A mostly fictional company for helping you know what to do and not do when writing software. 
+remote_theme: pmarsceill/just-the-docs
+
+url: https://downtime.industries
+
+aux_links:
+  Website Repo: https://github.com/downtime-industries/downtime-industries-website
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+color_scheme: dark
