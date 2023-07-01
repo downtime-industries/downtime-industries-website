@@ -15,7 +15,14 @@ Running locally
 ```
 bundler exec jekyll serve
 ```
+## Codespaces
 
+[Codespace QuickStart](https://docs.github.com/en/codespaces/getting-started/quickstart)
+
+I am happy to report that everything works out of the box with the default Codespace. You can jump to the last step and start right up. It will even redirect the port and supply a link to view your changes pre-commit.
+```
+bundler exec jekyll serve
+```
 
 # just-the-docs-template
 
